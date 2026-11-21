@@ -1,0 +1,13 @@
+HTTrack3.51-0 launched on Sat, 21 Nov 2026 14:34:09 at https://livedemo00.template-help.com/wt_57853/ +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack/3.x; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "es, en, *" https://livedemo00.template-help.com/wt_57853/#httrack-bundle=template-help.com -O1 C:\Users\Teamb\Downloads\PáginasWeb\PORTAFOLIO-ADRIANA +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:34:10	Info: 	Note: due to https://livedemo00.template-help.com remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+14:34:10	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://livedemo00.template-help.com/wt_57853/)
+
+HTTrack Website Copier/3.51-0 mirror complete in 1 seconds : 3 links scanned, 1 files written (19266 bytes overall) [7712 bytes received at 7712 bytes/sec], 19266 bytes transferred using HTTP compression in 1 files, ratio 22%
+(1 errors, 0 warnings, 1 messages)

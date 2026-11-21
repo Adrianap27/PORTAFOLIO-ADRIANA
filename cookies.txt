@@ -1,0 +1,17 @@
+# Netscape HTTP Cookie File
+# Written by HTTrack Website Copier
+livedemo00.template-help.com	FALSE	/wt_57853	FALSE	0	panel1	closed
+.template-help.com	TRUE	/	TRUE	1826825641	cf_clearance	CgLP8zyhRAsBd4AS3skuglOCX9uz93DcHNj95N61mXw8rwLQC8C0S7EzSiXU6ZsQ9SBBHsJ31i9gEcuuV0WVPqXs-yAkt1gOK4Ay8MBTCuyNJnuaz7ejjfNPmwtd3UyCLFVF_NspauvJOj2ZIVYYMyLiftstaOiyDVMk8bWW2fJqLgmRu4B0_ffN5zCaHgz4bkLm61dCqJzX-asSxDxLuKWUgq0h30B5-C4NQjHALJ3u756XDdG6GQgvWS0HaIH5PC7OURENITBVSWLcrp_Gt_nHEOrQyzHoeEBJB3FinWSioR1v2vVRZIGsTWthbDh2s6Y8jjgQ-b1znBrgC4vc61t82bGbDsrTjR1C9uXdU5pcOpacdAxk_f5UoBnVM0moOJSUF0hdZO6m2ArLSUYz8gMaTR1WXPv8awp36nbEf7aPivkBFnBD1NlZw9v0
+.livedemo00.template-help.com	TRUE	/	FALSE	1829849643	__utma	165484194.173425874.1795289644.1795289644.1795289644.1
+.livedemo00.template-help.com	TRUE	/	FALSE	0	__utmc	165484194
+.livedemo00.template-help.com	TRUE	/	FALSE	1811057643	__utmz	165484194.1795289644.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+.livedemo00.template-help.com	TRUE	/	FALSE	1795290243	__utmt	1
+.livedemo00.template-help.com	TRUE	/	FALSE	1795291443	__utmb	165484194.1.10.1795289644
+livedemo00.template-help.com	FALSE	/	FALSE	0	wcsid	kVW11ES6T35o1RBF493Lw0U680Bjbvkz
+livedemo00.template-help.com	FALSE	/	FALSE	1829849644	hblid	dqlBJZ7cd6xzwhm1493Lw0UaB60zvj8o
+livedemo00.template-help.com	FALSE	/	FALSE	0	_oklv	1795289644095%2CkVW11ES6T35o1RBF493Lw0U680Bjbvkz
+livedemo00.template-help.com	FALSE	/	FALSE	0	_okdetect	%7B%22token%22%3A%2217952896444930%22%2C%22proto%22%3A%22about%3A%22%2C%22host%22%3A%22%22%7D
+.livedemo00.template-help.com	TRUE	/	FALSE	1829849644	_ga	GA1.3.173425874.1795289644
+.livedemo00.template-help.com	TRUE	/	FALSE	1795376044	_gid	GA1.3.995350481.1795289645
+.livedemo00.template-help.com	TRUE	/	FALSE	1795289704	_gat_UA-1217838-28	1
+.livedemo00.template-help.com	TRUE	/	FALSE	1829849645	_ga_2BM4094Z6X	GS2.3.s1795289645$o1$g0$t1795289645$j60$l0$h0

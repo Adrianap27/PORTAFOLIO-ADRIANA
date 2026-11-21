@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:34:10	19266/19266	---MCZ	200	added ('OK')	text/html	date:Sat,%2021%20Nov%202026%2019:33:25%20GMT	https://livedemo00.template-help.com/wt_57853/	C:/Users/Teamb/Downloads/P%c3%a1ginasWeb/PORTAFOLIO-ADRIANA/livedemo00.template-help.com/wt_57853/index.html	(from )
+14:34:10	26/26	---M--	200	added ('OK')	text/plain	date:Sat,%2021%20Nov%202026%2018:31:51%20GMT	https://livedemo00.template-help.com/robots.txt		(from )
+14:34:10	1555/1555	---M--	400	error ('Bad%20Request')	text/html	date:Sat,%2021%20Nov%202026%2019:34:15%20GMT	http://www.googletagmanager.com/gtm.js?id=	C:/Users/Teamb/Downloads/P%c3%a1ginasWeb/PORTAFOLIO-ADRIANA/www.googletagmanager.com/gtm5445.html	(from https://livedemo00.template-help.com/wt_57853/)
